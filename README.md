@@ -1,7 +1,7 @@
 # NOTE: MEANT TO BE RUN WITH MARS SIMULATOR AND THE KEYPAD AND LED SIMULATOR
 
 ### HOW TO RUN ###
-* Open file in Mars Simulator
+* Open bomberpixel.asm in MARS Simulator
 * Assemble code and then run
 * Open the Keypad and LED Simulator within Mars
 * Select "Connect to Mips"
